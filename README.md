@@ -17,14 +17,14 @@ Termux SAM Music System: sistema completo de música em segundo plano para traba
 2. Digite seu nome e crie sua senha
 3. Fecha e abre o Termux
 
+4. ## Versão Completa
+
+Quer a versão completa com YouTube sem link, todos os botões e o setup automático?
+
+[Comprar o pack completo aqui](https://ko-fi.com/s/1ea81fcfe6)
+
 ## Como instalar
 
 ```bash
 pkg install mpv yt-dlp tmux socat -y
 termux-setup-storage
-
-## Versão Completa
-
-Quer a versão completa com YouTube sem link, todos os botões e o setup automático?
-
-[Comprar o pack completo aqui](https://ko-fi.com/s/1ea81fcfe6)
