@@ -22,3 +22,9 @@ Termux SAM Music System: sistema completo de música em segundo plano para traba
 ```bash
 pkg install mpv yt-dlp tmux socat -y
 termux-setup-storage
+
+## Versão Completa
+
+Quer a versão completa com YouTube sem link, todos os botões e o setup automático?
+
+[Comprar o pack completo aqui](https://ko-fi.com/s/1ea81fcfe6)
